@@ -1,3 +1,4 @@
+<img width="1917" height="1077" alt="Screenshot 2026-10-14 151850" src="https://github.com/user-attachments/assets/467bb89d-e511-4a3f-a0ff-5675690f46a6" />
 # Signup Form Website through MariaDB on AWS
 
 ## 💡 Introduction
