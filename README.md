@@ -1,4 +1,3 @@
-<img width="1917" height="1077" alt="Screenshot 2026-10-14 151850" src="https://github.com/user-attachments/assets/467bb89d-e511-4a3f-a0ff-5675690f46a6" />
 # Signup Form Website through MariaDB on AWS
 
 ## 💡 Introduction
@@ -68,7 +67,7 @@ The signup form collects the following information:
 - The email field checks for a valid email format in the browser.
 - The website field checks for a valid URL format when a value is entered.
 
-<img width="1911" height="1073" alt="Screenshot 2026-10-08 181716" src="https://github.com/user-attachments/assets/a7410af1-b705-4015-a287-be83b8d72710" />
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/5c0e0975-ecfd-42b4-a1a6-f31a25a90f05" />
 
 
 
@@ -91,6 +90,7 @@ If the database query succeeds, the website displays:
 - The submitted comment
 - The selected gender
 
+<img width="1917" height="1077" alt="Screenshot 2026-10-14 151850" src="https://github.com/user-attachments/assets/cfa9df82-676f-4ef4-9543-bbd7c8638b6e" />
 
 
 
@@ -106,7 +106,7 @@ The submitted information is displayed on the result page using PHP's `htmlspeci
 
 Verify that the submitted data has been successfully stored in the MariaDB `users` table.
 
-<img width="1917" height="301" alt="Screenshot 2026-10-08 181918" src="https://github.com/user-attachments/assets/14bc005d-b9bb-4332-82c5-200a6ebe8179" />
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/0b036ee2-5ad9-4208-b14c-761a81548f4c" />
 
 
 Steps to verify:
@@ -196,3 +196,5 @@ This project provides practical experience with HTML forms, HTTP POST requests, 
 - **Database:** MySQL / MariaDB
 - **Communication:** HTTP POST
 - **Optional deployment web server:** Apache or Nginx
+  ## Author
+  Shantilal Samrut
